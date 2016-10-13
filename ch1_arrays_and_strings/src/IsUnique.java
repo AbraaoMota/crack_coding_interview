@@ -10,6 +10,8 @@
     Intuition: Use an array of booleans / bit map to represent what characters have been seen, tick
     those that have been seen as true, if seen more than once then stop and flag as false.
 
+    This assumes only the alphabet is used. Could probably change hash easily for all available chars.
+
  */
 
 import java.util.Arrays;
