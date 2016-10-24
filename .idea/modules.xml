@@ -4,6 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ch1_arrays_and_strings/ch1_arrays_and_strings.iml" filepath="$PROJECT_DIR$/ch1_arrays_and_strings/ch1_arrays_and_strings.iml" />
       <module fileurl="file://$PROJECT_DIR$/ch1_check_permutation/ch1_check_permutation.iml" filepath="$PROJECT_DIR$/ch1_check_permutation/ch1_check_permutation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch1_one_away/ch1_one_away.iml" filepath="$PROJECT_DIR$/ch1_one_away/ch1_one_away.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch1_palindrome_permutation/ch1_palindrome_permutation.iml" filepath="$PROJECT_DIR$/ch1_palindrome_permutation/ch1_palindrome_permutation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch1_urlify/ch1_urlify.iml" filepath="$PROJECT_DIR$/ch1_urlify/ch1_urlify.iml" />
       <module fileurl="file://$PROJECT_DIR$/crack_coding_interview.iml" filepath="$PROJECT_DIR$/crack_coding_interview.iml" />
     </modules>
   </component>
