@@ -8,7 +8,9 @@
       <module fileurl="file://$PROJECT_DIR$/ch1_palindrome_permutation/ch1_palindrome_permutation.iml" filepath="$PROJECT_DIR$/ch1_palindrome_permutation/ch1_palindrome_permutation.iml" />
       <module fileurl="file://$PROJECT_DIR$/ch1_rotate_matrix/ch1_rotate_matrix.iml" filepath="$PROJECT_DIR$/ch1_rotate_matrix/ch1_rotate_matrix.iml" />
       <module fileurl="file://$PROJECT_DIR$/ch1_string_compression/ch1_string_compression.iml" filepath="$PROJECT_DIR$/ch1_string_compression/ch1_string_compression.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch1_string_rotation/ch1_string_rotation.iml" filepath="$PROJECT_DIR$/ch1_string_rotation/ch1_string_rotation.iml" />
       <module fileurl="file://$PROJECT_DIR$/ch1_urlify/ch1_urlify.iml" filepath="$PROJECT_DIR$/ch1_urlify/ch1_urlify.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch1_zero_matrix/ch1_zero_matrix.iml" filepath="$PROJECT_DIR$/ch1_zero_matrix/ch1_zero_matrix.iml" />
       <module fileurl="file://$PROJECT_DIR$/crack_coding_interview.iml" filepath="$PROJECT_DIR$/crack_coding_interview.iml" />
     </modules>
   </component>
